@@ -1,0 +1,7 @@
+streamlit
+openai
+langchain
+vaderSentiment
+python-dotenv
+matplotlib
+pandas
