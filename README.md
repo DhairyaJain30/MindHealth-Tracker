@@ -73,5 +73,10 @@ MindHealth-Tracker/
 - Gemini API – Suggestions
 - Matplotlib / Pandas – Logging & visualization
 
-```markdown
-![Home Page](assets/home.png)
+### 🟢 Screenshot – Home Page
+![Home](assets/Homepage.png)
+
+### 📊 Screenshot – Mood Prediction
+![Prediction](assets/Prediction.png)
+
+
