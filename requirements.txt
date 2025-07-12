@@ -1,7 +1,20 @@
+# Core Web App
 streamlit
-openai
-langchain
-vaderSentiment
 python-dotenv
-matplotlib
+
+# Data & NLP
 pandas
+numpy
+matplotlib
+scikit-learn
+contractions
+spacy
+nltk==3.8.1  # (or latest stable)
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+
+# Deep Learning
+torch
+transformers
+
+# Gemini-API
+google-cloud-aiplatform

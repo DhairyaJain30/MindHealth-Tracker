@@ -1,1 +1,17 @@
 .env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore logs, temp files
+*.log
+*.csv
+
+# Ignore model files
+roberta_model/
+*.bin
+*.safetensors
+*.json
+*.txt
